@@ -74,10 +74,11 @@ export default function Home() {
 
       {/* キャッチコピー */}
       <div className="absolute inset-0 flex items-center justify-center">
-<h1 className="text-white text-8xl md:text-6xl font-bold drop-shadow-lg text-center px-4 animate-fadeInUp">
+<h1 className="text-white text-xl sm:text-xl md:text-6xl font-bold drop-shadow-lg text-center px-4 animate-fadeInUp">
   次の発車は、<br className="md:hidden" />
   思い出行き。
 </h1>
+
 
       </div>
     </div>
